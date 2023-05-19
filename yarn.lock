@@ -1420,6 +1420,11 @@ prop-types@^15.8.1:
     object-assign "^4.1.1"
     react-is "^16.13.1"
 
+public-google-sheets-parser@^1.2.6:
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/public-google-sheets-parser/-/public-google-sheets-parser-1.2.6.tgz#61ea4bb65a579a7e0afc8fea762cf14c406b750d"
+  integrity sha512-sWtWEGw7735Hfo04zjMGiXF7XI9SNTjBJFQQluIQmPjI3hnB9pSgcUMPGRF+W0IiJSF28x2EksJ/n1Vi/x8jYg==
+
 punycode@^2.1.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
